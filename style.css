@@ -1,0 +1,18 @@
+h1 {
+    font-family: Franklin Gothic Medium;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 300;
+    text-align: center;
+    color: aqua;
+    word-spacing: 20px;
+}
+h2 {
+    font-family: Franklin Gothic Medium;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+    color: aqua;
+    word-spacing: 20px;
+}
